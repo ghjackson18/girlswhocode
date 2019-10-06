@@ -1,0 +1,71 @@
+body {
+	margin: 0px;
+}
+
+h1 {
+	color: #DB2955;
+	font-family: 'Oswald', sans-serif;
+	width: 400vw;
+	height: 50vh;
+	background-image: url(https://images.unsplash.com/photo-1545283425-f5cb1ca33cd6?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80);
+	background-repeat: no-repeat; •/
+	color: #DB2955;
+	padding: 45px 15px 40px;
+	border: #46E8C6 5px dashed;
+	background-color: white;
+	border-radius: 89px;
+
+}
+
+h2 {
+	font-family:'Oswald', sans-serif;
+}
+
+p{
+	color:#46E8C6;
+	font-family: 'Mansalva', cursive;
+	font-size: 20px;
+}
+
+li{
+	color:#46E8C6;
+	font-family: 'Mansalva', cursive;
+	font-size: 20px;
+}
+ol {
+	color:#5546E8;
+	font-family: 'Mansalva', cursive;
+	font-size: 50px;
+
+}
+#banner{
+	text-align: left;
+}
+.loveit{
+	font-size: 30px;
+	color:#46E8C6;
+}
+/*.jars{
+	border: 5px red solid;
+}*/
+#jelly{
+	border: 5px green dashed;
+	margin-right: 10px;
+}
+
+#peanut {
+	border: 5px red solid;
+	margin-right: 10px;
+}
+
+#strawberry{
+	width:235px;
+	height:235px;
+}
+
+.fab {
+	color: purple;
+}
+.fab:hover{
+	font-size:50px;
+}
