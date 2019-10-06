@@ -1,6 +1,6 @@
 # girlswhocode
 
-Women's Coding Day, LeWagon Berlin, Germany.
+Website, Women's Coding Day, LeWagon Berlin, Germany.
 
 On October 5th 2019, I attended a coding bootcamp for women.
 They taught me how to build my own landing page for my website using HTML, CSS and a little bit of JS.
